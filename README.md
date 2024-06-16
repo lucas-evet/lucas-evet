@@ -23,4 +23,6 @@
 
 ## Para contato!
 
- <a href = "lucase.ssilva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+Em breve
+
+ <a href = "https://www.youtube.com/channel/UCvVgN6E2dY5QUD-IymLn5AQ"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
