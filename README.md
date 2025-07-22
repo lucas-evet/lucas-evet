@@ -27,6 +27,6 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-cassimiro&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-evet&show_icons=true&count_private=true)
 
 ![GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=lucas-evet&show_icons=true&locale=en)
